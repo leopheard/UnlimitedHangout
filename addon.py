@@ -2,18 +2,18 @@ from xbmcswift2 import Plugin, xbmcgui
 from resources.lib import mainaddon
 
 plugin = Plugin()
-url1 = ""
+url1 = "https://unlimitedhangout.com/feed/podcast/"
 @plugin.route('/')
 def main_menu():
     items = [
         {
             'label': plugin.get_string(30001), 
             'path': plugin.url_for('episodes1'),
-            'thumbnail': ""},
+            'thumbnail': "https://unlimitedhangout.com/wp-content/uploads/2020/07/Unlimited-Hangout_Logo_v2-02.png"},
         {
             'label': plugin.get_string(30000),
             'path': plugin.url_for('episodes'),
-            'thumbnail': ""},
+            'thumbnail': "https://i1.sndcdn.com/avatars-XWZCmDk6Ko208ASX-rAxgdw-t500x500.jpg"},
     ]
     return items
 
