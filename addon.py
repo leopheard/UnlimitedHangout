@@ -9,7 +9,7 @@ def main_menu():
         {
             'label': plugin.get_string(30001), 
             'path': plugin.url_for('episodes1'),
-            'thumbnail': "https://unlimitedhangout.com/wp-content/uploads/2020/07/Unlimited-Hangout_Logo_v2-02.png"},
+            'thumbnail': "https://i1.sndcdn.com/avatars-XWZCmDk6Ko208ASX-rAxgdw-t500x500.jpg"},
         {
             'label': plugin.get_string(30000),
             'path': plugin.url_for('episodes'),
