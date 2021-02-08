@@ -1,4 +1,4 @@
-<a href="kodi.tv">KODI<a> (XBMC/OSMC/Firestick) audio addon for the <a href="https://www.unlimitedhangout.com">Unlimited Hangout</a> podcast.<br>
+<a href="kodi.tv">KODI<a> (XBMC/OSMC/Firestick) audio addon for the <a href="https://www.unlimitedhangout.com">Unlimited Hangout</a> podcast with Whitney Webb.<br>
 
 <img src="https://i1.sndcdn.com/avatars-XWZCmDk6Ko208ASX-rAxgdw-t500x500.jpg"><br>
 
